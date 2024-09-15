@@ -1,0 +1,1 @@
+from .top_artist_views import TopArtistViews
